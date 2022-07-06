@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import styled from 'styled-components'
 
-function App() {
+//functions for media query breakpoints & converting px unit
+import getBreakPoint from './utils/breakpoints'
+import convertPxToRem from './utils/PxToRem'
+
+// App components
+import Header from './components/Header'
+import FirstSection from './components/FirstSection'
+import SecondSection from './components/SecondSection'
+
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <AppContainer>
+      <Header/>
+      <FirstSection/>
+      <SecondSection/>
+    </AppContainer>
+  )
 }
 
-export default App;
+const AppContainer = styled.div`
+@media (min-width: ${getBreakPoint("large")}){
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 4rem;
+
+  header {
+    height: ${convertPxToRem(500)};
+    flex-basis: 55%;
+  }
+  .landing-section {
+    flex-basis: 38%;
+  }
+
+  .second-section {
+    flex-basis: 100%;
+  }
+}
+`
+export default App

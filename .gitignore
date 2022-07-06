@@ -11,6 +11,11 @@
 # production
 /build
 
+# Design Folder & style guide
+design
+style-guide.md
+
+
 # misc
 .DS_Store
 .env.local
