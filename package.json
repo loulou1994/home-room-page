@@ -2,12 +2,15 @@
   "name": "room-home-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/loulou1994/home-room-page",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
@@ -29,6 +32,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "import-all.macro": "^3.1.0",
     "styled-components": "^5.3.5"
   }
