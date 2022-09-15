@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkroom_home_page=self.webpackChunkroom_home_page||[]).push([[12],{12:function(e,o,p){e.exports=p.p+"static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg"}}]);

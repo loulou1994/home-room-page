@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/loulou1994/home-room-page/static/css/main.1405bbfb.css",
+    "main.js": "/loulou1994/home-room-page/static/js/main.2fc8ba99.js",
+    "static/js/694.ebf1e014.chunk.js": "/loulou1994/home-room-page/static/js/694.ebf1e014.chunk.js",
+    "static/js/983.38cf8c8b.chunk.js": "/loulou1994/home-room-page/static/js/983.38cf8c8b.chunk.js",
+    "static/js/247.2a4f288d.chunk.js": "/loulou1994/home-room-page/static/js/247.2a4f288d.chunk.js",
+    "static/js/464.7c58c3fc.chunk.js": "/loulou1994/home-room-page/static/js/464.7c58c3fc.chunk.js",
+    "static/js/746.964125cf.chunk.js": "/loulou1994/home-room-page/static/js/746.964125cf.chunk.js",
+    "static/js/12.56f5b5fd.chunk.js": "/loulou1994/home-room-page/static/js/12.56f5b5fd.chunk.js",
+    "static/media/desktop-image-hero-1.jpg": "/loulou1994/home-room-page/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/loulou1994/home-room-page/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/loulou1994/home-room-page/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/mobile-image-hero-1.jpg": "/loulou1994/home-room-page/static/media/mobile-image-hero-1.5de3d1472db703fb2f8a.jpg",
+    "static/media/mobile-image-hero-2.jpg": "/loulou1994/home-room-page/static/media/mobile-image-hero-2.51db290a00388a5a0bea.jpg",
+    "static/media/image-about-dark.jpg": "/loulou1994/home-room-page/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/mobile-image-hero-3.jpg": "/loulou1994/home-room-page/static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg",
+    "static/media/logo.svg": "/loulou1994/home-room-page/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/loulou1994/home-room-page/index.html",
+    "static/media/icon-close.svg": "/loulou1994/home-room-page/static/media/icon-close.3e88bd6e1dd859233d65f8222e8ccb74.svg",
+    "static/media/icon-arrow.svg": "/loulou1994/home-room-page/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
+    "static/media/icon-hamburger.svg": "/loulou1994/home-room-page/static/media/icon-hamburger.dc022bac537a273572af58dec556ed7e.svg",
+    "static/media/icon-angle-left.svg": "/loulou1994/home-room-page/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
+    "static/media/icon-angle-right.svg": "/loulou1994/home-room-page/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
+    "main.1405bbfb.css.map": "/loulou1994/home-room-page/static/css/main.1405bbfb.css.map",
+    "main.2fc8ba99.js.map": "/loulou1994/home-room-page/static/js/main.2fc8ba99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1405bbfb.css",
+    "static/js/main.2fc8ba99.js"
+  ]
+}

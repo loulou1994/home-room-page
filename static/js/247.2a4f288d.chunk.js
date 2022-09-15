@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkroom_home_page=self.webpackChunkroom_home_page||[]).push([[247],{247:function(e,o,a){e.exports=a.p+"static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg"}}]);
