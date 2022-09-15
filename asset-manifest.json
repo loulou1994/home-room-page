@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home-room-page/static/css/main.1405bbfb.css",
-    "main.js": "/home-room-page/static/js/main.c5e4aad1.js",
+    "main.js": "/home-room-page/static/js/main.5fab874b.js",
     "static/js/694.ebf1e014.chunk.js": "/home-room-page/static/js/694.ebf1e014.chunk.js",
     "static/js/983.38cf8c8b.chunk.js": "/home-room-page/static/js/983.38cf8c8b.chunk.js",
     "static/js/247.2a4f288d.chunk.js": "/home-room-page/static/js/247.2a4f288d.chunk.js",
@@ -23,10 +23,10 @@
     "static/media/icon-angle-left.svg": "/home-room-page/static/media/icon-angle-left.d53877dfd9c6774a68749ad0239b4ce1.svg",
     "static/media/icon-angle-right.svg": "/home-room-page/static/media/icon-angle-right.0ed3f81fbd14b3bd61d875b7df144e4c.svg",
     "main.1405bbfb.css.map": "/home-room-page/static/css/main.1405bbfb.css.map",
-    "main.c5e4aad1.js.map": "/home-room-page/static/js/main.c5e4aad1.js.map"
+    "main.5fab874b.js.map": "/home-room-page/static/js/main.5fab874b.js.map"
   },
   "entrypoints": [
     "static/css/main.1405bbfb.css",
-    "static/js/main.c5e4aad1.js"
+    "static/js/main.5fab874b.js"
   ]
 }
